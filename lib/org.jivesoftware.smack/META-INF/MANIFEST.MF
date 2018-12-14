@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Smack
 Bundle-SymbolicName: org.jivesoftware.smack
 Bundle-Version: 4.1.9
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: .,
  xmlpull-1.1.3.4d_b4_min.jar,
  jxmpp-core-0.5.0-alpha6.jar,

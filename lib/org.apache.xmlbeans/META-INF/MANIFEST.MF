@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Xmlbeans
 Bundle-SymbolicName: org.apache.xmlbeans
 Bundle-Version: 2.6.0
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: xmlbeans-2.6.0.jar
 Export-Package: org.apache.xmlbeans,
  org.apache.xmlbeans.impl.common,

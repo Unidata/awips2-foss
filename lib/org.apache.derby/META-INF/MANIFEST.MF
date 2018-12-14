@@ -112,4 +112,4 @@ Export-Package: org.apache.derby.agg,
  org.apache.derby.shared.common.reference,
  org.apache.derby.tools,
  org.apache.derby.vti
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

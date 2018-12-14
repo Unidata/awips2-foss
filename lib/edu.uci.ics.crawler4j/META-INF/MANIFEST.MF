@@ -4,7 +4,7 @@ Bundle-Name: Crawler4j
 Bundle-SymbolicName: edu.uci.ics.crawler4j
 Bundle-Version: 1.0.0
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: apache-mime4j-core-0.7.jar,
  apache-mime4j-dom-0.7.jar,
  boilerpipe-1.1.0.jar,

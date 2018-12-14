@@ -6,7 +6,7 @@ Bundle-Version: 2.2
 Bundle-ClassPath: .,
  asm-2.2.jar,
  asm-attrs-2.2.jar
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package: org.objectweb.asm,
  org.objectweb.asm.attrs,
  org.objectweb.asm.signature

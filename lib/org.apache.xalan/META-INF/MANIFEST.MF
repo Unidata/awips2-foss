@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Xalan
 Bundle-SymbolicName: org.apache.xalan
 Bundle-Version: 2.7.2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: xalan-2.7.2.jar
 Export-Package: org.apache.xalan,
  org.apache.xalan.client,

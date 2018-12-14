@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Bouncycastle
 Bundle-SymbolicName: org.bouncycastle
 Bundle-Version: 1.54
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: bcprov-jdk15on-1.54.jar
 Export-Package: org.bouncycastle,
  org.bouncycastle.asn1,

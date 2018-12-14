@@ -255,5 +255,5 @@ Export-Package: com.keypoint,
  org.jfree.ui.action;uses:="javax.swing",
  org.jfree.ui.tabbedui;uses:="javax.swing",
  org.jfree.util;uses:="org.jfree.ui,javax.swing,org.jfree.base.config"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Require-Bundle: org.eclipse.swt

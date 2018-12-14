@@ -4,6 +4,6 @@ Bundle-Name: Apache Commons Cli Plug-in
 Bundle-SymbolicName: org.apache.commons.cli
 Bundle-Version: 1.2
 Bundle-Vendor: Raytheon-bundled OSS
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: commons-cli-1.2.jar
 Export-Package: org.apache.commons.cli

@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Kml
 Bundle-SymbolicName: de.micromata.opengis.kml
 Bundle-Version: 2.2.0
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: JavaAPIforKml.jar,
  .
 Export-Package: de.micromata.opengis.kml.v_2_2_0,

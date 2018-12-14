@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Resolver
 Bundle-SymbolicName: org.apache.xml.resolver
 Bundle-Version: 1.2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: xml-resolver-1.2.jar
 Export-Package: org.apache.xml.resolver,
  org.apache.xml.resolver.apps,

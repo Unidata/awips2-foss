@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Schema
 Bundle-SymbolicName: org.apache.ws.commons.schema
 Bundle-Version: 2.1.0
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: xmlschema-core-2.1.0.jar
 Export-Package: org.apache.ws.commons.schema,
  org.apache.ws.commons.schema.constants,

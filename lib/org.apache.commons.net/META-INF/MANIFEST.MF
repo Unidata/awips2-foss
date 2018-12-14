@@ -4,7 +4,7 @@ Bundle-Name: Net
 Bundle-SymbolicName: org.apache.commons.net
 Bundle-Version: 3.3
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: commons-net-3.3.jar
 Export-Package: org.apache.commons.net,
  org.apache.commons.net.bsd,

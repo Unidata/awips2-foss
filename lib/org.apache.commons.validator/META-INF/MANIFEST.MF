@@ -9,4 +9,4 @@ Export-Package: org.apache.commons.validator,
  org.apache.commons.validator.javascript,
  org.apache.commons.validator.resources,
  org.apache.commons.validator.util
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

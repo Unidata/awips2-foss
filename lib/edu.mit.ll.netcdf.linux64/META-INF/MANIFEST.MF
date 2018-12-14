@@ -5,5 +5,5 @@ Bundle-SymbolicName: edu.mit.ll.netcdf.linux64
 Bundle-Version: 1.3
 Bundle-Vendor: Raytheon-bundled OSS
 Fragment-Host: edu.mit.ll.netcdf;bundle-version="1.3"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Eclipse-PlatformFilter: (& (osgi.os=linux) (osgi.arch=x86_64))
