@@ -6,44 +6,44 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry exported="true" kind="lib" path="cxf-core-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-bindings-soap-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-bindings-xml-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-databinding-jaxb-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-features-clustering-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-frontend-jaxrs-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-frontend-jaxws-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-frontend-simple-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-management-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-client-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-extension-providers-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-json-basic-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-security-cors-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-security-sso-saml-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-security-xml-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-service-description-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-security-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-security-saml-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-transports-http-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-transports-http-jetty-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-transports-local-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-ws-addr-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-wsdl-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-ws-policy-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-ws-rm-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-rt-ws-security-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-tools-common-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-tools-misctools-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-tools-validator-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-tools-wadlto-jaxrs-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-tools-wsdlto-core-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-tools-wsdlto-databinding-jaxb-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="cxf-tools-wsdlto-frontend-jaxws-3.3.10.jar" sourcepath="apache-cxf-3.3.10-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="jakarta.ws.rs-api-2.1.5.jar" sourcepath="jakarta.ws.rs-api-2.1.5-sources.jar"/>
 	<classpathentry kind="lib" path="FastInfoset-1.2.18.jar"/>
 	<classpathentry kind="lib" path="neethi-3.1.1.jar"/>
 	<classpathentry kind="lib" path="stax2-api-3.1.4.jar"/>
 	<classpathentry kind="lib" path="woodstox-core-5.0.3.jar"/>
 	<classpathentry kind="lib" path="wsdl4j-1.6.3.jar"/>
-	<classpathentry exported="true" kind="lib" path="cxf-core-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-bindings-soap-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-bindings-xml-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-databinding-jaxb-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-frontend-jaxrs-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-frontend-jaxws-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-frontend-simple-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-management-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-client-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-extension-providers-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-json-basic-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-security-cors-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-security-sso-saml-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-security-xml-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-rs-service-description-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-security-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-security-saml-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-transports-http-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-transports-http-jetty-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-transports-local-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-ws-addr-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-ws-policy-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-ws-rm-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-ws-security-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-wsdl-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-tools-common-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-tools-misctools-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-tools-validator-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-tools-wadlto-jaxrs-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-tools-wsdlto-core-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-tools-wsdlto-databinding-jaxb-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-tools-wsdlto-frontend-jaxws-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="cxf-rt-features-clustering-3.3.9.jar" sourcepath="apache-cxf-3.3.9-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="jakarta.ws.rs-api-2.1.5.jar" sourcepath="jakarta.ws.rs-api-2.1.5-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
