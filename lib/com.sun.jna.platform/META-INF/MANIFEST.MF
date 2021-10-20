@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: JNA FOSS
 Bundle-SymbolicName: com.sun.jna.platform
-Bundle-Version: 4.5.1
-Bundle-ClassPath: jna-platform-4.5.1.jar
+Bundle-Version: 5.8.0
+Bundle-ClassPath: jna-platform-5.8.0.jar
 Export-Package: com.sun.jna.platform,
  com.sun.jna.platform.dnd,
  com.sun.jna.platform.mac,
@@ -17,3 +17,4 @@ Export-Package: com.sun.jna.platform,
  com.sun.jna.platform.win32.COM.util.annotation,
  com.sun.jna.platform.wince
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Automatic-Module-Name: com.sun.jna.platform
