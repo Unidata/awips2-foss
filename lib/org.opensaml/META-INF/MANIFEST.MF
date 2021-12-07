@@ -167,4 +167,4 @@ Export-Package: org.opensaml.core,
  org.opensaml.xmlsec.signature.support,
  org.opensaml.xmlsec.signature.support.impl,
  org.opensaml.xmlsec.signature.support.provider
-Require-Bundle: org.apache.commons.ssl;bundle-version="1.0.2"
+Require-Bundle: org.apache.commons.ssl
