@@ -11,4 +11,4 @@ Export-Package: de.micromata.opengis.kml.v_2_2_0,
  de.micromata.opengis.kml.v_2_2_0.atom,
  de.micromata.opengis.kml.v_2_2_0.gx,
  de.micromata.opengis.kml.v_2_2_0.xal
-Require-Bundle: javax.xml.bind;bundle-version="2.4.0"
+Require-Bundle: javax.xml.bind
