@@ -11,6 +11,5 @@ Bundle-ClassPath: gnu-getopt-1.0.6.jar,
 Export-Package: com.raytheon.opendap,
  opendap.dap,
  opendap.dap.parser
-Require-Bundle: org.jdom,
- javax.servlet,
+Require-Bundle: javax.servlet,
  org.apache.http
