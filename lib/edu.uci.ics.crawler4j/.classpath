@@ -7,8 +7,8 @@
 	<classpathentry exported="true" kind="lib" path="apache-mime4j-core-0.8.7.jar" sourcepath="apache-mime4j-core-0.8.7-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="apache-mime4j-dom-0.8.7.jar" sourcepath="apache-mime4j-dom-0.8.7-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="metadata-extractor-2.17.1.0.jar" sourcepath="metadata-extractor-2.17.1.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="tika-core-1.28.2.jar" sourcepath="tika-core-1.28.2-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="tika-parsers-1.28.2.jar" sourcepath="tika-parsers-1.28.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="tika-core-1.28.3.jar" sourcepath="tika-core-1.28.3-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="tika-parsers-1.28.3.jar" sourcepath="tika-parsers-1.28.3-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="boilerpipe-1.1.0.jar" sourcepath="boilerpipe-1.1.0-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="tagsoup-1.2.1.jar" sourcepath="tagsoup-1.2.1-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
