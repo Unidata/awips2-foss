@@ -9,7 +9,7 @@
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="resources"/>
-	<classpathentry exported="true" kind="lib" path="tika-core-1.28.3.jar" sourcepath="tika-core-1.28.3-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="tika-parsers-1.28.3.jar" sourcepath="tika-parsers-1.28.3-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="tika-core-1.28.4.jar" sourcepath="tika-core-1.28.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="tika-parsers-1.28.4.jar" sourcepath="tika-parsers-1.28.4-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
