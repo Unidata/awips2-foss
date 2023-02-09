@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="apache-mime4j-core-0.7.jar"/>
-	<classpathentry exported="true" kind="lib" path="apache-mime4j-dom-0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="apache-mime4j-core-0.8.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="apache-mime4j-dom-0.8.9.jar"/>
 	<classpathentry exported="true" kind="lib" path="boilerpipe-1.1.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="je-4.0.92.jar"/>
 	<classpathentry exported="true" kind="lib" path="tagsoup-1.2.1.jar"/>
