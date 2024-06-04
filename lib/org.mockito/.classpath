@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="mockito-junit-jupiter-5.11.0.jar" sourcepath="mockito-junit-jupiter-5.11.0-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="objenesis-3.4.jar"/>
 	<classpathentry exported="true" kind="lib" path="byte-buddy-agent-1.14.12.jar"/>
 	<classpathentry exported="true" kind="lib" path="byte-buddy-1.14.12.jar"/>
-	<classpathentry exported="true" kind="lib" path="mockito-core-5.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="mockito-core-5.11.0.jar" sourcepath="mockito-core-5.11.0-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
 		<attributes>
 			<attribute name="module" value="true"/>

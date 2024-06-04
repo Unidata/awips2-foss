@@ -4,6 +4,7 @@ Bundle-Name: Mockito
 Bundle-SymbolicName: org.mockito
 Bundle-Version: 5.11.0
 Bundle-ClassPath: mockito-core-5.11.0.jar,
+ mockito-junit-jupiter-5.11.0.jar,
  byte-buddy-1.14.12.jar,
  byte-buddy-agent-1.14.12.jar,
  objenesis-3.4.jar
@@ -65,6 +66,8 @@ Export-Package: org.mockito,
  org.mockito.internal.verification.checkers,
  org.mockito.invocation,
  org.mockito.junit,
+ org.mockito.junit.jupiter,
+ org.mockito.junit.jupiter.resolver,
  org.mockito.listeners,
  org.mockito.mock,
  org.mockito.plugins,
