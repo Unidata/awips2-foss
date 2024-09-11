@@ -8,7 +8,7 @@ Bundle-ClassPath: bufr-4.6.10.jar,
  cdm-4.6.10.jar,
  httpservices-4.6.10.jar,
  udunits-4.6.10.jar
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Require-Bundle: org.slf4j,
  org.jdom2,
  org.joda.time,

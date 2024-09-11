@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: org.apache.cxf
 Bundle-SymbolicName: org.apache.cxf
 Bundle-Version: 4.0.5
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: cxf-core-4.0.5.jar,
  cxf-rt-bindings-soap-4.0.5.jar,
  cxf-rt-bindings-xml-4.0.5.jar,

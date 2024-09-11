@@ -85,4 +85,4 @@ Export-Package: com.eurocontrol.avwx.v_1_1_1,
  us.gov.ic.ism.v_2_0
 Require-Bundle: 
  javax.xml.bind
-Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-RequiredExecutionEnvironment: JavaSE-17

@@ -4,7 +4,7 @@ Bundle-Name: Jcommander
 Bundle-SymbolicName: com.beust.jcommander
 Bundle-Version: 1.72
 Bundle-Vendor: Raytheon Bundled FOSS
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: jcommander-1.72.jar,
  .
 Export-Package: com.beust.jcommander,

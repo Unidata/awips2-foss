@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Protocol Buffers
 Bundle-SymbolicName: com.google.protobuf
 Bundle-Version: 3.3.1
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: protobuf-java-3.3.1.jar,
  .
 Export-Package: com.google.protobuf,
