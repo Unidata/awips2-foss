@@ -15,8 +15,7 @@ Bundle-ClassPath: .,
  xmpcore-6.1.11.jar,
  xmpcore-shaded-6.1.11.jar,
  crawler4j-4.4.0.jar
-Require-Bundle: org.apache.http,
- org.apache.commons.io
+Require-Bundle: org.apache.commons.io
 Export-Package: com.drew.imaging,
  com.drew.imaging.jpeg,
  com.drew.imaging.tiff,
