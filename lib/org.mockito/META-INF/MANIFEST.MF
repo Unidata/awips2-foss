@@ -75,4 +75,4 @@ Export-Package: org.mockito,
  org.mockito.session,
  org.mockito.stubbing,
  org.mockito.verification
-Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-RequiredExecutionEnvironment: JavaSE-17

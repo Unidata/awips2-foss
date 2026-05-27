@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Xml
 Bundle-SymbolicName: org.opensaml
 Bundle-Version: 3.4.6
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: java-support-7.3.0.jar,
  opensaml-core-3.4.6.jar,
  opensaml-profile-api-3.4.6.jar,

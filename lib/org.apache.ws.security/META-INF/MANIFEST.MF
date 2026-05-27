@@ -11,7 +11,7 @@ Require-Bundle: org.slf4j,
  org.apache.xml.security,
  org.jasypt
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: wss4j-bindings-2.3.3.jar,
  wss4j-policy-2.3.3.jar,
  wss4j-ws-security-common-2.3.3.jar,

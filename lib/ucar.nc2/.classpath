@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="udunits-4.6.10.jar" sourcepath="udunits-4.6.10-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="httpservices-4.6.10.jar" sourcepath="httpservices-4.6.10-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="cdm-4.6.10.jar" sourcepath="cdm-4.6.10-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="bufr-4.6.10.jar" sourcepath="bufr-4.6.10-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="grib-4.6.10.jar" sourcepath="grib-4.6.10-sources.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="legacy-5.9.1.jar" sourcepath="legacy-5.9.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="udunits-5.9.1.jar" sourcepath="udunits-5.9.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="httpservices-5.9.1.jar" sourcepath="httpservices-5.9.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="cdm-core-5.9.1.jar" sourcepath="cdm-core-5.9.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="cdm-misc-5.9.1.jar" sourcepath="cdm-misc-5.9.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="cdm-radial-5.9.1.jar" sourcepath="cdm-radial-5.9.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="bufr-5.9.1.jar" sourcepath="bufr-5.9.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="grib-5.9.1.jar" sourcepath="grib-5.9.1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
