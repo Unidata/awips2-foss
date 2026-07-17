@@ -28,4 +28,4 @@ Export-Package: org.apache.commons.compress,
  org.apache.commons.compress.parallel,
  org.apache.commons.compress.utils
 Bundle-ClassPath: commons-compress-1.26.0.jar
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-17

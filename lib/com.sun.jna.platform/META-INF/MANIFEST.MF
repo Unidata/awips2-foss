@@ -16,5 +16,5 @@ Export-Package: com.sun.jna.platform,
  com.sun.jna.platform.win32.COM.util,
  com.sun.jna.platform.win32.COM.util.annotation,
  com.sun.jna.platform.wince
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Automatic-Module-Name: com.sun.jna.platform

@@ -6,6 +6,6 @@ Bundle-Version: 1.1.90
 Bundle-ClassPath: ogc-tools-gml-jts-1.1.90.jar
 Require-Bundle: org.geotools,
  net.opengis
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Export-Package: org.jvnet.ogc.gml.v_3_1_1,
  org.jvnet.ogc.gml.v_3_1_1.jts
